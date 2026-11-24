@@ -1,4 +1,4 @@
-# HTB Sherlock: [CHALLENGE NAME] — Windows PCA Artifact Forensics Writeup
+# HTB Sherlock: [Assistant] — Windows PCA Artifact Forensics Writeup
 
 > **Category:** DFIR / Windows Forensics
 > **Platform:** Hack The Box (Sherlocks)

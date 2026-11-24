@@ -245,3 +245,5 @@ Eraser is a secure file-deletion tool that overwrites data to defeat recovery, w
 ---
 
 *References: Windows 11 PCA artifact research (Andrea Fortuna, Aleksandar Milenkoski), HTB Sherlocks documentation.*
+
+Medium reference: https://medium.com/@navanath/assistant-htb-write-up-ad5392dd23c6
